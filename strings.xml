@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fort Clinch</string>
+    <string name="title">Fort Clinch State Park</string>
+    <string name="street_address">2601 Atlantic Ave, Fernandina Beach, FL 32034</string>
+    <string name="phone_number">(904) 277-7274</string>
+    <string name="website">https://www.floridastateparks.org/park/Fort-Clinch</string>
+    <string name="hours_of_operation">Open daily 9AM - 5PM</string>
+    <string name="description">Located on beautiful Amelia Island in North Florida, this Third System fort serves as
+    monument to the US Civil war, though it was used as recently as the Second World War for national security.
+        In addition to daily tours, there are campsites, a fishing pier, hiking and biking trails, and many other
+    recreational activities.</string>
+</resources>
